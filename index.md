@@ -3,14 +3,11 @@ layout: page
 title: TAASP 2024
 ---
 
-
-## TAASP 2024
-
 ### Workshop on Trends and Applications of Answer Set Programming
 
-The TAASP workshop series is jointly organized by research groups at Alpen-Adria-Universität Klagenfurt, Technische Universität Wien, and Universität Potsdam.
+**The TAASP workshop series is jointly organized by research groups at Alpen-Adria-Universität Klagenfurt, Technische Universität Wien, and Universität Potsdam.**
 
-TAASP 2024 will be held on November 25-26, 2024 at Alpen-Adria-Universität Klagenfurt, Austria.
+**TAASP 2024 will be held on November 25-26, 2024 at Alpen-Adria-Universität Klagenfurt, Austria.**
 
 TAASP 2024 is the seventh workshop of its type, following TAASP 2023, TAASP 2022, TAASP 2020, TAASP 2019, TAASP 2018, TAASP 2016.
 
