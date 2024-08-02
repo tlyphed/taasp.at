@@ -8,11 +8,13 @@ title: Important Dates
 		<td>
 			<b>Paper submission deadline:</b>
 		</td>
-		<td>October 4, 2024</td>
+		<td>
+            October 4, 2024
+        </td>
 	</tr>
 	<tr>
 		<td>
-				<b>Notification:</b>
+			<b>Notification:</b>
 		</td>
 		<td>
             November 4, 2024
