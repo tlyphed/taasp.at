@@ -20,13 +20,10 @@ https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guideli
 
 Paper submission will be handled electronically by means of the Easychair system. All submissions will be peer-reviewed.
 The submission page is available here:
-https://easychair.org/conferences/?conf=taasp2024
+[https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024)
 
 ### Important Dates
-| Paper submission deadline: | October 4, 2024      | 
-| Author notification:       | November 4, 2024     | 
-| Camera-ready articles due: | November 18, 2024    | 
-| Workshop:                  | November 25-26, 2024 | 
+Can be found on the [respective page](/taasp.at/dates).
 
 ### Location
  The workshop will be held at Alpen-Adria-Universität Klagenfurt, Austria.
@@ -38,17 +35,7 @@ https://easychair.org/conferences/?conf=taasp2024
  it will be possible to submit to other conferences and journals both
  in parallel and subsequent to TAASP 2024.
 
-### Program Committee
- TBA
-
-### Organitation Committee
- Alice Tarzariol, Alpen-Adria-Universität Klagenfurt, Austria
-
- Klaus Strauch, Universität Potsdam, Germany
-
- Tobias Geibinger, Technische Universität Wien, Austria
 
 ### Contact
- Workshop page: http://taasp.at/2024
- Submission page: https://easychair.org/conferences/?conf=taasp2024
- Email address: taasp2024(at)easychair.org
+**Submission page:**[https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024) \
+**Email address:** [taasp2024@easychair.org](mailto:taasp2024@easychair.org)
