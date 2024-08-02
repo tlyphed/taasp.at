@@ -17,7 +17,7 @@ title: TAASP
 email: "taasp24@easychair.org"
 description: >- # this means to ignore newlines until "baseurl:"
   Webpage of the Workshop Series "Trends and Applications of Answer Set Programming"
-baseurl: "/taasp.at/" # the subpath of your site, e.g. /blog
+baseurl: "/2024/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll

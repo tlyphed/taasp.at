@@ -14,8 +14,8 @@ Thomas Eiter, Technische Universität Wien, Austria
 ### Organization Committee
 
 Alice Tarzariol, Alpen-Adria-Universität Klagenfurt, Austria \
-Klaus Strauch, Universität Potsdam, Germany \ 
-Tobias Geibinger, Technische Universität Wien, Austria \
+Klaus Strauch, Universität Potsdam, Germany \
+Tobias Geibinger, Technische Universität Wien, Austria
 
 ### Program Committee
 TBD
