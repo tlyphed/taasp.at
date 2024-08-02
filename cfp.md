@@ -37,5 +37,5 @@ Can be found on the [respective page](/taasp.at/dates).
 
 
 ### Contact
-**Submission page:**[https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024) \
+**Submission page:** [https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024) \
 **Email address:** [taasp2024@easychair.org](mailto:taasp2024@easychair.org)
