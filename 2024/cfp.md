@@ -18,7 +18,7 @@ We welcome two categories of submissions:
 All submissions should be in the Springer LNCS format:
 https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
 
-Paper submission will be handled electronically by means of the Easychair system. All submissions will be peer-reviewed.
+Paper submission will be handled electronically by means of the Easychair system. All submissions will be peer-reviewed. \
 The submission page is available here:
 [https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024)
 
@@ -29,11 +29,7 @@ Can be found on the [respective page](/taasp.at/dates).
  The workshop will be held at Alpen-Adria-Universität Klagenfurt, Austria.
 
 ### Proceedings
- TAASP is a non-archival venue and there will be no published
- proceedings. However, informal proceedings will be provided and the
- papers will be posted informally on the workshop website. Therefore,
- it will be possible to submit to other conferences and journals both
- in parallel and subsequent to TAASP 2024.
+TAASP is a non-archival venue and there will be no published proceedings. However, informal proceedings will be provided and the papers will be posted informally on the workshop website. Therefore, it will be possible to submit to other conferences and journals both in parallel and subsequent to TAASP 2024.
 
 
 ### Contact
