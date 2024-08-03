@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: template2024
 title: TAASP 2024
-header: header2024.html
 ---
 
 ### Workshop on Trends and Applications of Answer Set Programming
