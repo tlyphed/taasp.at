@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand" rel="author" href="{{ "/" | page.url | absolute_url }}">{{ site.title | escape }}</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,13 +9,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="{{ "/" | relative_url }}cfp">Call for Papers</a>
+            <a class="nav-link" href="{{ "/" | page.url | absolute_url }}cfp">Call for Papers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ "/" | relative_url }}dates">Dates</a>
+            <a class="nav-link" href="{{ "/" | page.url | absolute_url }}dates">Dates</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ "/" | relative_url }}committee">Committee</a>
+            <a class="nav-link" href="{{ "/" | page.url | absolute_url }}committee">Committee</a>
           </li>
         <!-- <li class="nav-item">
           <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
