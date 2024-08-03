@@ -1,6 +1,7 @@
 ---
 layout: template
 title: TAASP 2025
+menu: false
 ---
 
 ### Workshop on Trends and Applications of Answer Set Programming

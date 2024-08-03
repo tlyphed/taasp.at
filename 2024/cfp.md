@@ -1,6 +1,7 @@
 ---
 layout: template
 title: Call for Papers
+menu: true
 ---
 
 

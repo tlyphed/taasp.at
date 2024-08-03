@@ -1,6 +1,7 @@
 ---
 layout: template
 title: Committee
+menu: true
 ---
 
 ### Steering Commitee
