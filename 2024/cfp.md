@@ -24,7 +24,7 @@ The submission page is available here:
 [https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024)
 
 ### Important Dates
-Can be found on the [respective page](/taasp.at/dates).
+Can be found on the [respective page](/taasp.at/2024/dates).
 
 ### Location
  The workshop will be held at Alpen-Adria-Universität Klagenfurt, Austria.
