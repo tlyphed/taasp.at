@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: template2024
 title: Committee
-header: header2024.html
 ---
 
 ### Steering Commitee

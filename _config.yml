@@ -28,6 +28,7 @@ url: "https://tlyphed.github.io/taasp.at/" # the base hostname & protocol for yo
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  
 
 # A list of the pages to display in the navigation bar
 header_pages:
@@ -42,4 +43,4 @@ exclude:
   - update_boostrap.sh
   - README.md
   - LICENSE.md
-  
+

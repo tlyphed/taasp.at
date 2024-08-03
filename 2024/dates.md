@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: template2024
 title: Important Dates
-header: header2024.html
 ---
 
 <table>
