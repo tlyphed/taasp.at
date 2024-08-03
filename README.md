@@ -9,7 +9,7 @@ If you want to create a "new" subsite for the next year, you have to do the foll
 
 1) Copy the folder for the previous year and adapt the year.
 4) Update the redirect in `index.html` to point to the new subsite.
-5) Adapt the content and possibly delete some pages (for now).
+5) Adapt the content and possibly delete some pages or hide them in the navbar by setting `menu: false`.
 
 
 ## Theme License
