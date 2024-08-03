@@ -19,7 +19,7 @@
                 {% if thing.dir == page.dir %}
                   {% if thing.menu == true %}
                     <li>
-                      <a class="nav-link" href="{{ thing.slug | relative_url }}">{{ thing.title }}</a>
+                      <a class="nav-link" href="{{ thing.url | relative_url }}">{{ thing.title }}</a>
                     </li>
                   {% endif %}
                 {% endif %}
