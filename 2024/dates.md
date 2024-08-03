@@ -1,5 +1,5 @@
 ---
-layout: template2024
+layout: template
 title: Important Dates
 ---
 
