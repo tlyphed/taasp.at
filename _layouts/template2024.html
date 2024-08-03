@@ -29,6 +29,16 @@
       </div>
     </nav>
 
+    <ul>
+      {% for thing in site.pages %}
+        {% if thing.dir == page.dir %}
+      <li>
+        {{ thing.title }}
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+
     <div class="py-5">
       <div class="container page-content">
         <header>
