@@ -15,7 +15,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a class="nav-link" href="{{ "/" | relative_url }}{{ page.dir }}cfp">Call for Papers</a>
               </li>
               <li class="nav-item">
@@ -23,21 +23,20 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{ "/" | relative_url }}{{ page.dir }}committee">Committee</a>
-              </li>
+              </li> -->
+              {% for thing in site.pages %}
+                {% if thing.dir == page.dir %}
+                  {% if thing.name != index %}
+                    <li>
+                      <a class="nav-link" href="{{ "/" | relative_url }}{{ page.dir }}{{ thing.name }}">{{ thing.title }}</a>
+                    </li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
           </ul>
         </div>
       </div>
     </nav>
-
-    <ul>
-      {% for thing in site.pages %}
-        {% if thing.dir == page.dir %}
-      <li>
-        {{ thing.title }}
-      </li>
-      {% endif %}
-      {% endfor %}
-    </ul>
 
     <div class="py-5">
       <div class="container page-content">
