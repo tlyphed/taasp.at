@@ -18,3 +18,8 @@ Answer set programming (ASP) is a widely used declarative programming paradigm b
 ![Logo of the AAU Klagenfurt](/assets/images/aau-logo.png){: width="220" } &emsp;&emsp;
 ![Logo of the TU Wien](/assets/images/tuwien-informatics.png){: width="400" } &emsp;&emsp;
 ![Logo of the Uni Potsdam](/assets/images/potsdam_logo.jpg){: width="100" }
+
+#### Sponsors
+
+<a href="https://www.ftf.or.at/">![Logo FTF](/assets/images/ftf_logo.tiff){: width="100" } &emsp;&emsp;</a>
+<a href="https://www.potassco.com/">![Logo Potassco](/assets/images/potassco_logo.jpg){: width="100" }</a>
