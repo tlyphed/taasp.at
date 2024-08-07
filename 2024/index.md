@@ -21,5 +21,5 @@ Answer set programming (ASP) is a widely used declarative programming paradigm b
 
 #### Sponsors
 
-<a href="https://www.ftf.or.at/">![Logo FTF](/assets/images/ftf_logo.tif){: width="100" } &emsp;&emsp;</a>
+<a href="https://www.ftf.or.at/">![Logo FTF](/assets/images/ftf_logo.png){: width="100" } &emsp;&emsp;</a>
 <a href="https://www.potassco.com/">![Logo Potassco](/assets/images/potassco_logo.jpg){: width="150" }</a>
