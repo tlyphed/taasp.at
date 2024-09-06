@@ -3,7 +3,9 @@ layout: template
 title: Venue
 menu: true
 ---
-## Workshop Location 
+
+
+### Workshop Location 
 
 [**University of Klagenfurt**](https://maps.app.goo.gl/zGvkjLjYBwBvkcMm9) \
 Universitätsstraße 65-67 \
@@ -11,19 +13,21 @@ Universitätsstraße 65-67 \
 
 **Room:** [Z.1.09](https://campusplan.aau.at/?q=Z.1.09)
 
-## Travel 
 
-### Arriving by Train
+### Travel 
+
+#### Arriving by Train
 - **From Bahnhof Klagenfurt West:** 15 min walking distance to the University.
 - **From Hauptbahnhof Klagenfurt:** you can reach the University by Bus Line C, running every 10 min.
 
-### Arriving from the Airport
+#### Arriving from the Airport
 - **By Bus:** Approx. 40 min.
 - **By Train:** Approx. 37 min, including walking distance.
 
-## Accomodation
 
-### Hotels Near the University 
+### Accomodation
+
+#### Hotels Near the University 
 
 #### [Seepark Hotel](https://www.dasseepark.at/en/)
 - **Distance:** 5 min by foot
@@ -43,7 +47,8 @@ Universitätsstraße 65-67 \
 #### [Hotel Rokohof](https://hotel-rokohof.at/)
 - **Distance:** 27 min by foot or 14 min by bus
 
-### Hotels in the City Center 
+
+#### Hotels in the City Center 
 
 #### [Der Sandwirth](https://sandwirth.at/)
 - **Distance:** 18 min by bus
