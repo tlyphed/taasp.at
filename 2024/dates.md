@@ -10,7 +10,7 @@ menu: true
 			<b>Paper submission deadline:&emsp;&emsp;</b>
 		</td>
 		<td>
-            October 11, 2024
+            October 4, 2024
         </td>
 	</tr>
 	<tr>
@@ -18,7 +18,7 @@ menu: true
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            November 11, 2024
+            November 4, 2024
         </td>
 	</tr>
 	<tr>
