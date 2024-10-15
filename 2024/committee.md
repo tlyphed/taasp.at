@@ -24,9 +24,10 @@ Peyman Eftekhari, Alpen-Adria-Universität Klagenfurt, Austria \
 Wolfgang Faber, Alpen-Adria-Universität Klagenfurt, Austria \
 Martin Gebser, Alpen-Adria-Universität Klagenfurt, Austria \
 Michael Morak, Alpen-Adria-Universität Klagenfurt, Austria \
+Arvid Becker, Universität Potsdam, Germany \
 Amadé Nemes, Universität Potsdam, Germany \
-Henry Otunuya, Universität Potsdam, Germany \
 Ryan Murphy, Universität Potsdam, Germany \
+Henry Otunuya, Universität Potsdam, Germany \
 Michele Collevati, Technische Universität Wien, Austria \
 Davide Solda, Technische Universität Wien, Austria \
 Nelson Higuera Ruiz, Technische Universität Wien, Austria
