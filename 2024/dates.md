@@ -18,14 +18,14 @@ menu: true
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            November 11, 2024
+            November 13, 2024
         </td>
 	</tr>
 	<tr>
 		<td>
 			<b>Camera-ready articles due:&emsp;&emsp;</b>
 		</td>
-		<td>November 18, 2024</td>
+		<td>November 19, 2024</td>
 	</tr>
 	<tr>
 		<td>
