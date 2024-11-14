@@ -9,8 +9,7 @@ menu: true
 ##### 12:30-12:45 Welcome
 ##### 12:45-13:45 Invited Talk by Bart Bogaerts
 
-_Combinatorial Solving with Provably Correct Results: from SAT to MaxSAT (and Beyond?)_
-
+_Combinatorial Solving with Provably Correct Results: from SAT to MaxSAT (and Beyond?)_ \
 Combinatorial optimization problems are ubiquitous in our lives. They show up in the forms of matching problems (e.g., assigning junior doctors to hospitals), scheduling problems (e.g., radiation therapy), logistics problems (e.g., visiting nurses), and many more. In many cases, these problems are also notoriously hard (often NP-hard, or even worse). Still, thanks to tremendous progress over the last decades, we now have access to sophisticated algorithms that can solve these problems in practice. Unfortunately, it turns out that, due to their immense complexity, these (solving) algorithms often contain subtle bugs. In this tutorial, we give an overview of the most successful approach to dealing with this issue, namely proof logging, meaning that solvers aren't allowed to just claim an answer to a problem: they're expected to also produce an independently verifiable proof that backs up this claim. In the field of Boolean Satisfiability, this has done wonders for solver reliability, and has also helped with social acceptability of computer-generated mathematical results. 
 In this talk, I will introduce the VeriPB proof system and explain how it allowed us to lift the idea of proof logging from SAT to MaxSAT in a uniform way, for different solving paradigms. Afterwards, I will briefly talk about future plans, related to brining proof logging to the world of first-order representations. 
 
@@ -28,8 +27,7 @@ In this talk, I will introduce the VeriPB proof system and explain how it allowe
 
 ##### 09:00-10:00 Invited Talk by Jesse Heyninck
 
-_Operator-based semantics for logic programs: recent advances_
-
+_Operator-based semantics for logic programs: recent advances_\
 Even though the answer set semantics has been consolidated as the main semantics for (normal) logic programming, other interesting semantics exist. Furthermore, extending the answer set semantics beyond the core language fragment often proves challenging. A unifying framework for the definition and study of semantics of rule-based languages is given by the operator-based approximation fixpoint theory (AFT). In this talk, I will survey the main ideas behind this theory, and explain some recent advances, such as the extension of the theory to non-deterministic constructs such as disjunction and choice rules.
 
 ##### 10:00-10:30 Coffee Break
