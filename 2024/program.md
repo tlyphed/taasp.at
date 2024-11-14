@@ -7,7 +7,7 @@ menu: true
 #### Monday, Nov 25, 2024
 
 ##### 12:30-12:45 Welcome
-##### 12:45-13:45 Invited talk by Bart Bogaerts
+##### 12:45-13:45 Invited Talk by Bart Bogaerts
 
 _Combinatorial Solving with Provably Correct Results: from SAT to MaxSAT (and Beyond?)_
 
@@ -26,7 +26,7 @@ In this talk, I will introduce the VeriPB proof system and explain how it allowe
 
 #### Tuesday, Nov 26, 2024
 
-##### 09:00-10:00 Invited talk by Jesse Heyninck
+##### 09:00-10:00 Invited Talk by Jesse Heyninck
 
 _Operator-based semantics for logic programs: recent advances_
 
