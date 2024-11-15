@@ -119,4 +119,11 @@ _Francesco Chiariello, Antonio Ielo and Alice Tarzariol_
 
 <br/>
 
+##### 11:30-12:00 &emsp; Special Talks
+
+Dynamic Aggregates in Expressive ASP Heuristics for Configuration Problems (from TAASP 2023) \
+_Richard Comploi-Taupe, Gerhard Friedrich and Tilman Niestroj_
+
+<br/>
+
 ##### 12:00-12:15 &emsp; Closing
