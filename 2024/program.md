@@ -91,18 +91,18 @@ _Giacomo Da Col, Philipp Fleiss, Alice Tarzariol, Erich Teppan and Elena Wiegelm
 
 <br/>
 
-##### 09:00-10:00 &emsp; Invited Talk by Jesse Heyninck
+##### 09:30-10:30 &emsp; Invited Talk by Jesse Heyninck
 
 **Operator-based semantics for logic programs: recent advances** \
 Even though the answer set semantics has been consolidated as the main semantics for (normal) logic programming, other interesting semantics exist. Furthermore, extending the answer set semantics beyond the core language fragment often proves challenging. A unifying framework for the definition and study of semantics of rule-based languages is given by the operator-based approximation fixpoint theory (AFT). In this talk, I will survey the main ideas behind this theory, and explain some recent advances, such as the extension of the theory to non-deterministic constructs such as disjunction and choice rules.
 
 <br/>
 
-##### 10:00-10:30 &emsp; Coffee Break
+##### 10:30-11:00 &emsp; Coffee Break
 
 <br/>
 
-##### 10:30-11:15 &emsp; Applications II
+##### 11:00-12:00 &emsp; Applications II & Special Talks
 
 A Case Study on TSP: What to Optimize and How? \
 _Martin Gebser_
@@ -110,16 +110,11 @@ _Martin Gebser_
 An ILASP-Based Approach to Repair Petri Nets (Extended Abstract) \
 _Francesco Chiariello, Antonio Ielo and Alice Tarzariol_
 
-<br/>
-
-##### 11:15-11:30 &emsp; Small Break
-
-<br/>
-
-##### 11:30-12:00 &emsp; Special Talks
-
 Dynamic Aggregates in Expressive ASP Heuristics for Configuration Problems (from TAASP 2023) \
 _Richard Comploi-Taupe, Gerhard Friedrich and Tilman Niestroj_
+
+Automating Routing of Product Returns for Failure Analysis with Neuro-Symbolic AI (from ISTFA 2024) \
+_Felix Mitterer, Christian Burmer and Konstantin Schekotihin_
 
 <br/>
 
