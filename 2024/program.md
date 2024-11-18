@@ -107,9 +107,6 @@ Even though the answer set semantics has been consolidated as the main semantics
 A Case Study on TSP: What to Optimize and How? \
 _Martin Gebser_
 
-Generating Hard Solvable Instances for Egalitarian Stable Roommates Problems: An Extended Abstract \
-_Baturay Yılmaz and Esra Erdem_
-
 An ILASP-Based Approach to Repair Petri Nets (Extended Abstract) \
 _Francesco Chiariello, Antonio Ielo and Alice Tarzariol_
 
