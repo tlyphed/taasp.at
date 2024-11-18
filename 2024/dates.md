@@ -25,7 +25,7 @@ menu: true
 		<td>
 			<b>Camera-ready articles due:&emsp;&emsp;</b>
 		</td>
-		<td>November 19, 2024</td>
+		<td>November 20, 2024</td>
 	</tr>
 	<tr>
 		<td>
