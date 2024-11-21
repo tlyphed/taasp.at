@@ -71,8 +71,8 @@ _Alexander Beiser, Markus Hecher, Stefan Woltran and Kaan Unalan_
 Preliminary Work on Incremental Solving for Multi-Agent Path Finding in ASP \
 _Klaus Strauch and Jiří Švancara_
 
-A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge \
-_Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Moritz Roidl_
+<!-- A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge \
+_Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Moritz Roidl_ -->
 
 Progress on an ASP-based Interactive Configurator \
 _Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_
