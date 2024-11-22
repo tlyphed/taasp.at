@@ -4,6 +4,7 @@ title: Venue
 menu: true
 ---
 
+<br/>
 
 ### Workshop Location 
 
@@ -13,6 +14,8 @@ Universitätsstraße 65-67 \
 
 **Room:** [Z.1.09](https://campusplan.aau.at/?q=Z.1.09)
 
+
+<br/>
 
 ### Travel 
 
@@ -24,6 +27,8 @@ Universitätsstraße 65-67 \
 - **By Bus:** Approx. 40 min.
 - **By Train:** Approx. 37 min, including walking distance.
 
+
+<br/>
 
 ### Accomodation
 
