@@ -19,7 +19,7 @@ Answer set programming (ASP) is a widely used declarative programming paradigm b
 ![Logo of the TU Wien](/assets/images/tuwien-informatics.png){: width="400" } &emsp;&emsp;
 ![Logo of the Uni Potsdam](/assets/images/potsdam_logo.jpg){: width="100" }
 
-<a href="https://www.bilateral-ai.net/">![Logo BilAI](/assets/images/bilai_logo.png){: width="100" }</a> &emsp;&emsp;
+<a href="https://www.bilateral-ai.net/">![Logo BilAI](/assets/images/bilai_logo.jpg){: width="100" }</a> &emsp;&emsp;
 
 #### Sponsors
 
