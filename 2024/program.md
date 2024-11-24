@@ -31,7 +31,6 @@ In this talk, I will introduce the VeriPB proof system and explain how it allowe
 [A Constraint-Based Visual Dataset Generator](/assets/paper/TAASP_2024_paper_5.pdf) \
 _Thomas Eiter, Nelson Higuera, Katsumi Inoue and Sota Moriyama_
 
- \
 [Explanations for Guess-and-Check ASP Encodings Using an LLM (Extended Abstract)](/assets/paper/TAASP_2024_paper_9.pdf) \
 _Tobias Geibinger, Johannes Oetsch and Tobias Kaminski_
 
