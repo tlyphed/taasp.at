@@ -28,8 +28,7 @@ In this talk, I will introduce the VeriPB proof system and explain how it allowe
 
 ##### 14:00-15:00 &emsp; Neurosymbolic Reasoning and Learning
 
-A Constraint-Based Visual Dataset Generator \
-[](/assets/paper/TAASP_2024_paper_5.pdf) \
+[A Constraint-Based Visual Dataset Generator](/assets/paper/TAASP_2024_paper_5.pdf) \
 _Thomas Eiter, Nelson Higuera, Katsumi Inoue and Sota Moriyama_
 
  \
