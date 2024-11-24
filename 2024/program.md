@@ -29,15 +29,17 @@ In this talk, I will introduce the VeriPB proof system and explain how it allowe
 ##### 14:00-15:00 &emsp; Neurosymbolic Reasoning and Learning
 
 A Constraint-Based Visual Dataset Generator \
+[](/assets/paper/TAASP_2024_paper_5.pdf) \
 _Thomas Eiter, Nelson Higuera, Katsumi Inoue and Sota Moriyama_
 
-Explanations for Guess-and-Check ASP Encodings Using an LLM (Extended Abstract) \
+ \
+[Explanations for Guess-and-Check ASP Encodings Using an LLM (Extended Abstract)](/assets/paper/TAASP_2024_paper_9.pdf) \
 _Tobias Geibinger, Johannes Oetsch and Tobias Kaminski_
 
-ASP-Driven Emergency Planning for Norm Violations in RL (Extended Abstract) \
+[ASP-Driven Emergency Planning for Norm Violations in RL (Extended Abstract)](/assets/paper/TAASP_2024_paper_10.pdf) \
 _Sebastian Adam and Thomas Eiter_
 
-Leveraging Neurosymbolic AI for Slice Discovery \
+[Leveraging Neurosymbolic AI for Slice Discovery](/assets/paper/TAASP_2024_paper_15.pdf) \
 _Michele Collevati, Thomas Eiter and Nelson Higuera_
 
 <br/>
@@ -48,16 +50,16 @@ _Michele Collevati, Thomas Eiter and Nelson Higuera_
 
 ##### 15:30-16:30 &emsp; Theory
 
-Strong and Uniform Equivalence Revisited \
+[Strong and Uniform Equivalence Revisited](/assets/paper/TAASP_2024_paper_2.pdf) \
 _Zeynep G. Saribatur and Stefan Woltran_
 
-Contracted Temporal Equilibrium Logic \
+[Contracted Temporal Equilibrium Logic](/assets/paper/TAASP_2024_paper_11.pdf) \
 _Pedro Cabalar, Thomas Eiter and Davide Soldà_
 
-Translating monotone aggregates from Ferraris into Gelfond-Zhang semantics: Work in progress \
+[Translating monotone aggregates from Ferraris into Gelfond-Zhang semantics: Work in progress](/assets/paper/TAASP_2024_paper_4.pdf) \
 _Pedro Cabalar, Jorge Fandinno, Javier Romero, Nicolas Rühling, Torsten Schaub and Philipp Wanko_
 
-Bypassing the ASP Bottleneck: Hybrid Grounding by Splitting and Rewriting \
+[Bypassing the ASP Bottleneck: Hybrid Grounding by Splitting and Rewriting](/assets/paper/TAASP_2024_paper_6.pdf) \
 _Alexander Beiser, Markus Hecher, Stefan Woltran and Kaan Unalan_
 
 <br/>
@@ -68,16 +70,16 @@ _Alexander Beiser, Markus Hecher, Stefan Woltran and Kaan Unalan_
 
 ##### 17:00-18:00 &emsp; Applications I
 
-Preliminary Work on Incremental Solving for Multi-Agent Path Finding in ASP \
+[Preliminary Work on Incremental Solving for Multi-Agent Path Finding in ASP](/assets/paper/TAASP_2024_paper_13.pdf) \
 _Klaus Strauch and Jiří Švancara_
 
 <!-- A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge \
 _Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Moritz Roidl_ -->
 
-Progress on an ASP-based Interactive Configurator \
+[Progress on an ASP-based Interactive Configurator](/assets/paper/TAASP_2024_paper_3.pdf) \
 _Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_
 
-A Preliminary Study to Tackle Sawmill Production Scheduling with ASP \
+[A Preliminary Study to Tackle Sawmill Production Scheduling with ASP ](/assets/paper/TAASP_2024_paper_12.pdf) \
 _Giacomo Da Col, Philipp Fleiss, Alice Tarzariol, Erich Teppan and Elena Wiegelmann_
 
 <br/>
@@ -104,16 +106,16 @@ Even though the answer set semantics has been consolidated as the main semantics
 
 ##### 11:00-12:00 &emsp; Applications II & Special Talks
 
-A Case Study on TSP: What to Optimize and How? \
+[A Case Study on TSP: What to Optimize and How?](/assets/paper/TAASP_2024_paper_7.pdf) \
 _Martin Gebser_
 
-An ILASP-Based Approach to Repair Petri Nets (Extended Abstract) \
+[An ILASP-Based Approach to Repair Petri Nets (Extended Abstract)](/assets/paper/TAASP_2024_paper_8.pdf) \
 _Francesco Chiariello, Antonio Ielo and Alice Tarzariol_
 
-Dynamic Aggregates in Expressive ASP Heuristics for Configuration Problems (from TAASP 2023) \
+[Dynamic Aggregates in Expressive ASP Heuristics for Configuration Problems (from TAASP 2023)](http://www.kr.tuwien.ac.at/events/taasp23/papers/TAASP_2023_paper_7.pdf) \
 _Richard Comploi-Taupe, Gerhard Friedrich and Tilman Niestroj_
 
-Automating Routing of Product Returns for Failure Analysis with Neuro-Symbolic AI (from ISTFA 2024) \
+[Automating Routing of Product Returns for Failure Analysis with Neuro-Symbolic AI (from ISTFA 2024)](https://dl.asminternational.org/istfa/proceedings-pdf/ISTFA2024/84918/47/700475/istfa2024p0047.pdf) \
 _Felix Mitterer, Christian Burmer and Konstantin Schekotihin_
 
 <br/>
