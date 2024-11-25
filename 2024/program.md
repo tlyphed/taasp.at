@@ -85,6 +85,8 @@ _Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Mori
 [Progress on an ASP-based Interactive Configurator](/assets/paper/TAASP_2024_paper_3.pdf) \
 _Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_
 
+<br/>
+
 ##### 18:30-22:00 &emsp; Social Dinner at [Gasthaus im Landhaushof](https://gut-essen-trinken.at/der-landhaushof/)
 
 <br/>
