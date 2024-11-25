@@ -66,7 +66,7 @@ _Alexander Beiser, Markus Hecher, Stefan Woltran and Kaan Unalan_
 
 <br/>
 
-##### 17:00-18:00 &emsp; Applications I
+##### 17:00-17:30 &emsp; Applications I
 
 [Preliminary Work on Incremental Solving for Multi-Agent Path Finding in ASP](/assets/paper/TAASP_2024_paper_13.pdf) \
 _Klaus Strauch and Jiří Švancara_
@@ -74,15 +74,15 @@ _Klaus Strauch and Jiří Švancara_
 <!-- A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge \
 _Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Moritz Roidl_ -->
 
-[Progress on an ASP-based Interactive Configurator](/assets/paper/TAASP_2024_paper_3.pdf) \
-_Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_
+<!-- [Progress on an ASP-based Interactive Configurator](/assets/paper/TAASP_2024_paper_3.pdf) \
+_Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_-->
 
 [A Preliminary Study to Tackle Sawmill Production Scheduling with ASP ](/assets/paper/TAASP_2024_paper_12.pdf) \
 _Giacomo Da Col, Philipp Fleiss, Alice Tarzariol, Erich Teppan and Elena Wiegelmann_
 
 <br/>
 
-##### 18:00-22:00 &emsp; Social Program
+##### 18:30-22:00 &emsp; Social Dinner at [Gasthaus im Landhaushof](https://gut-essen-trinken.at/der-landhaushof/)
 
 <br/>
 <br/>
