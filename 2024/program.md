@@ -77,15 +77,6 @@ _Giacomo Da Col, Philipp Fleiss, Alice Tarzariol, Erich Teppan and Elena Wiegelm
 
 <br/>
 
-##### No presentation
-
-[A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge](/assets/paper/TAASP_2024_paper_1.pdf) \
-_Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Moritz Roidl_ 
-
-[Progress on an ASP-based Interactive Configurator](/assets/paper/TAASP_2024_paper_3.pdf) \
-_Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_
-
-<br/>
 
 ##### 18:30-22:00 &emsp; Social Dinner at [Gasthaus im Landhaushof](https://gut-essen-trinken.at/der-landhaushof/)
 
@@ -124,3 +115,14 @@ _Felix Mitterer, Christian Burmer and Konstantin Schekotihin_
 <br/>
 
 ##### 12:00-12:15 &emsp; Closing
+
+<br/>
+
+##### No presentation
+
+[A Hybrid System for Warehouse Layout Planning Based on Answer Set Programming and Conditional Expert Knowledge](/assets/paper/TAASP_2024_paper_1.pdf) \
+_Andre Thevapalan, Marco Wilhelm, Gabriele Kern-Isberner, Pascal Kaiser and Moritz Roidl_ 
+
+[Progress on an ASP-based Interactive Configurator](/assets/paper/TAASP_2024_paper_3.pdf) \
+_Lucia Balážová, Richard Comploi-Taupe, Susana Hahn and Nicolas Rühling_
+
