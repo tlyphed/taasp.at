@@ -8,7 +8,7 @@ menu: false
 
 **The TAASP workshop series is jointly organized by research groups at Alpen-Adria-Universität Klagenfurt, Technische Universität Wien, and Universität Potsdam.**
 
-**TAASP 2025 will be held on November 24-25, 2024 at TU Wien, Austria.**
+**TAASP 2025 will be held on November 24-25, 2025 at TU Wien, Austria.**
 
 _TAASP 2025 is the eighth workshop of its type, following [TAASP 2024](http://taasp.at/2024/), [TAASP 2023](http://www.kr.tuwien.ac.at/events/taasp23/), [TAASP 2022](http://www.kr.tuwien.ac.at/events/taasp22/), [TAASP 2020](http://www.kr.tuwien.ac.at/events/taasp20/), [TAASP 2019](http://www.kr.tuwien.ac.at/events/taasp19/), [TAASP 2018](http://www.kr.tuwien.ac.at/events/taasp18/), [TAASP 2016](http://www.kr.tuwien.ac.at/events/taasp16/)._
 

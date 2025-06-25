@@ -10,7 +10,7 @@ menu: false
 			<b>Paper submission deadline:&emsp;&emsp;</b>
 		</td>
 		<td>
-            October 11, 2024
+            October 6, 2025
         </td>
 	</tr>
 	<tr>
@@ -18,21 +18,21 @@ menu: false
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            November 13, 2024
+            November 3, 2025
         </td>
 	</tr>
 	<tr>
 		<td>
 			<b>Camera-ready articles due:&emsp;&emsp;</b>
 		</td>
-		<td>November 20, 2024</td>
+		<td>November 17, 2025</td>
 	</tr>
 	<tr>
 		<td>
 			<b>Workshop:&emsp;&emsp;</b>
 		</td>
 		<td>
-            November 25-26, 2024
+            November 24-25, 2025
         </td>
 	</tr>
 </table>

@@ -21,18 +21,18 @@ https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guideli
 
 Paper submission will be handled electronically by means of the Easychair system. All submissions will be peer-reviewed. \
 The submission page is available here:
-[https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024)
+[https://easychair.org/conferences/?conf=taasp2025](https://easychair.org/conferences/?conf=taasp2025)
 
 ### Important Dates
-Can be found on the [respective page](/2024/dates).
+Can be found on the [respective page](/2025/dates).
 
 ### Location
  The workshop will be held at Alpen-Adria-Universität Klagenfurt, Austria.
 
 ### Proceedings
-TAASP is a non-archival venue and there will be no published proceedings. However, informal proceedings will be provided and the papers will be posted informally on the workshop website. Therefore, it will be possible to submit to other conferences and journals both in parallel and subsequent to TAASP 2024.
+TAASP is a non-archival venue and there will be no published proceedings. However, informal proceedings will be provided and the papers will be posted informally on the workshop website. Therefore, it will be possible to submit to other conferences and journals both in parallel and subsequent to TAASP 2025.
 
 
 ### Contact
-**Submission page:** [https://easychair.org/conferences/?conf=taasp2024](https://easychair.org/conferences/?conf=taasp2024) \
-**Email address:** [taasp2024@easychair.org](mailto:taasp2024@easychair.org)
+**Submission page:** [https://easychair.org/conferences/?conf=taasp2025](https://easychair.org/conferences/?conf=taasp2024) \
+**Email address:** [taasp2025@easychair.org](mailto:taasp2025@easychair.org)
