@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Call for Papers
-menu: false
+menu: true
 ---
 
 
@@ -19,20 +19,20 @@ We welcome two categories of submissions:
 All submissions should be in the Springer LNCS format:
 https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
 
-Paper submission will be handled electronically by means of the Easychair system. All submissions will be peer-reviewed. \
+Paper submission will be handled electronically via openreview. All submissions will be peer-reviewed. \
 The submission page is available here:
-[https://easychair.org/conferences/?conf=taasp2025](https://easychair.org/conferences/?conf=taasp2025)
+[https://openreview.net/group?id=TAASP.at/2025/Workshop](https://openreview.net/group?id=TAASP.at/2025/Workshop)
 
 ### Important Dates
 Can be found on the [respective page](/2025/dates).
 
 ### Location
- The workshop will be held at Alpen-Adria-Universität Klagenfurt, Austria.
+ The workshop will be held at TU Wien, Austria.
 
 ### Proceedings
 TAASP is a non-archival venue and there will be no published proceedings. However, informal proceedings will be provided and the papers will be posted informally on the workshop website. Therefore, it will be possible to submit to other conferences and journals both in parallel and subsequent to TAASP 2025.
 
 
 ### Contact
-**Submission page:** [https://easychair.org/conferences/?conf=taasp2025](https://easychair.org/conferences/?conf=taasp2024) \
-**Email address:** [taasp2025@easychair.org](mailto:taasp2025@easychair.org)
+**Submission page:** [https://openreview.net/group?id=TAASP.at/2025/Workshop](https://openreview.net/group?id=TAASP.at/2025/Workshop) \
+**Email address:** [taasp2025@kr.tuwien.ac.at](mailto:taasp2025@kr.tuwien.ac.at)

@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Important Dates
-menu: false
+menu: true
 ---
 
 <table>
