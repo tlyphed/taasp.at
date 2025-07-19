@@ -19,4 +19,16 @@ Tobias Stolzmann, Universität Potsdam, Germany \
 Tobias Geibinger, Technische Universität Wien, Austria
 
 ### Program Committee
-TBD
+Sebastian Adam, Technische Universität Wien, Austria \
+Ashraf Akl, Alpen-Adria-Universität Klagenfurt, Austria \
+Alexander Beiser, Technische Universität Wien, Austria \
+Peyman Eftekhari, Alpen-Adria-Universität Klagenfurt, Austria \
+Michael Morak, Alpen-Adria-Universität Klagenfurt, Austria \
+Amadé Nemes, Universität Potsdam, Germany \
+Javier Romero, Universität Potsdam, Germany \
+Patrick Rodler, Alpen-Adria-Universität Klagenfurt, Austria \
+Nicolas Rühling, Universität Potsdam, Germany \
+Zeynep G. Saribatur, Technische Universität Wien, Austria \
+Davide Solda, Technische Universität Wien, Austria \
+Klaus Strauch, Universität Potsdam, Germany 
+
