@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Venue
-menu: false
+menu: true
 ---
 
 <br/>
