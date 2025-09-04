@@ -9,6 +9,7 @@ menu: true
 ### Workshop Location 
 
 [**TU Wien**](https://tuwien.ac.at) \
+Faculty of Informatics \
 Favoritenstraße 9-11 \
 1040 Wien
 
