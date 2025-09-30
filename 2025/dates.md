@@ -10,7 +10,7 @@ menu: true
 			<b>Paper submission deadline:&emsp;&emsp;</b>
 		</td>
 		<td>
-            October 6, 2025
+            October 13, 2025
         </td>
 	</tr>
 	<tr>
@@ -18,14 +18,14 @@ menu: true
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            November 3, 2025
+            November 10, 2025
         </td>
 	</tr>
 	<tr>
 		<td>
 			<b>Camera-ready articles due:&emsp;&emsp;</b>
 		</td>
-		<td>November 17, 2025</td>
+		<td>November 20, 2025</td>
 	</tr>
 	<tr>
 		<td>
