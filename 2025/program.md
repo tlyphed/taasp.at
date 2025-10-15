@@ -4,6 +4,8 @@ title: Program
 menu: true
 ---
 
+*Preliminary program which is still subject to potential changes*
+
 <br/>
 
 #### Monday, Nov 24, 2025
