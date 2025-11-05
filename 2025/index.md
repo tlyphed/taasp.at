@@ -22,5 +22,5 @@ Answer set programming (ASP) is a widely used declarative programming paradigm b
 
 #### Sponsors
 
-<a href="https://www.potassco.com/">![Logo Potassco](/assets/images/potassco_logo.jpg){: width="150" }</a> &emsp;&emsp;
-<a href="http://zif.or.at/">![Logo ZIF](/assets/images/ZIF_Logo.jpg){: width="150" }</a> 
+<a href="http://zif.or.at/">![Logo ZIF](/assets/images/ZIF_Logo.jpg){: width="140" }</a> &emsp;&emsp;
+<a href="https://www.potassco.com/">![Logo Potassco](/assets/images/potassco_logo.jpg){: width="150" }</a> 
