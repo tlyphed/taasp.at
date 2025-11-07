@@ -18,7 +18,7 @@ menu: true
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            November 10, 2025
+            November 12, 2025
         </td>
 	</tr>
 	<tr>
