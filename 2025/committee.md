@@ -34,5 +34,6 @@ Klaus Strauch, Universität Potsdam, Germany
 
 ### Subreviewer
 Martin Gebser, Alpen-Adria-Universität Klagenfurt, Austria \
+Benedetta Strizzolo, Alpen-Adria-Universität Klagenfurt, Austria \
 Francesco Zuccato, Alpen-Adria-Universität Klagenfurt, Austria 
 
