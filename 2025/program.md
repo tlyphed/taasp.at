@@ -28,7 +28,7 @@ Inductive rule learning is concerned with the learning of classification rules f
 ##### 14:00-15:30 &emsp; Technical Session
 
 Effect of Abstraction on Understandability of ASP Explanations: Work in Progress \
-_Zeynep G. Saribatur, Johannes Langer, Ute Schmidt_
+_Zeynep G. Saribatur, Johannes Langer, Ute Schmid_
 
 Globally Interpretable Classifiers via Boolean Formulas with Dynamic Propositions \
 _Reijo Jaakkola, Tomi Janhunen, Antti Kuusisto, Masood Feyzbakhsh Rankooh_
