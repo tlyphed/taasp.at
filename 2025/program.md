@@ -27,6 +27,9 @@ Inductive rule learning is concerned with the learning of classification rules f
 
 ##### 14:00-15:30 &emsp; Technical Session
 
+Effect of Abstraction on Understandability of ASP Explanations: Work in Progress \
+_Zeynep G. Saribatur, Johannes Langer, Ute Schmidt_
+
 Globally Interpretable Classifiers via Boolean Formulas with Dynamic Propositions \
 _Reijo Jaakkola, Tomi Janhunen, Antti Kuusisto, Masood Feyzbakhsh Rankooh_
 
@@ -35,9 +38,6 @@ _Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
 
 Answer-Set-Programming-based Abstractions for Reinforcement Learning \
 _Rafael Bankosegger, Thomas Eiter, Johannes Oetsch_
-
-viasp: A visualization tool for Answer Set Programming (Extended Abstract) \
-_Javier Romero, Torsten Schaub, Stephan Zwicknagl, Luis Glaser_
 
 
 <br/>
@@ -135,9 +135,8 @@ _Wolfgang Faber, Michael Morak_
 An Argumentation Calculus for Equilibrium Logic \
 _Tobias Geibinger, Thomas Eiter_
 
-Effect of Abstraction on Understandability of ASP Explanations: Work in Progress \
-_Zeynep G. Saribatur, Johannes Langer_
-
+viasp: A visualization tool for Answer Set Programming (Extended Abstract) \
+_Javier Romero, Torsten Schaub, Stephan Zwicknagl, Luis Glaser_
 
 <br/>
 
