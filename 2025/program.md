@@ -12,20 +12,22 @@ Each technical paper presentation is scheduled for 20 minutes, where 5 minutes a
 
 #### Monday, Nov 24, 2025
 
-<br/>
-
-##### 12:50-13:00 &emsp; Welcome
+Room: [TU Wien Main Building, Ground floor, Sitzungszimmer AD EG](https://maps.tuwien.ac.at/?q=ADEG19)
 
 <br/>
 
-##### 13:00-14:00 &emsp; Invited Talk by [Johannes Fürnkranz](https://www.jku.at/en/institute-for-application-oriented-knowledge-processing/about-us/team/johannes-fuernkranz/)
+##### 13:30-13:40 &emsp; Welcome
+
+<br/>
+
+##### 13:40-14:40 &emsp; Invited Talk by [Johannes Fürnkranz](https://www.jku.at/en/institute-for-application-oriented-knowledge-processing/about-us/team/johannes-fuernkranz/)
 
 **Towards Deep and Interpretable Rule Learning** \
 Inductive rule learning is concerned with the learning of classification rules from data. Learned rules are inherently interpretable and easy to implement, so they are very suitable for formulating learned models in many domains. Nevertheless, current rule learning algorithms have several shortcomings. First, with respect to the current praxis of equating high interpretability with low complexity, we argue that while shorter rules are important for discrimination, longer rules are often more interpretable than shorter rules, and that the tendency of current rule learning algorithms to strive for short and concise rules should be replaced with alternative methods that allow for longer concept descriptions. Second, we think that the main impediment of current rule learning algorithms is that they are not able to learn deeply structured rule sets, unlike the successful deep learning techniques. Both points are currently under investigation in our group, and we will illustrate our progress with some results.
 
 <br/>
 
-##### 14:00-15:30 &emsp; Technical Session
+##### 14:40-16:10 &emsp; Technical Session
 
 Effect of Abstraction on Understandability of ASP Explanations: Work in Progress \
 _Zeynep G. Saribatur, Johannes Langer, Ute Schmid_
@@ -42,11 +44,11 @@ _Rafael Bankosegger, Thomas Eiter, Johannes Oetsch_
 
 <br/>
 
-##### 15:30-16:00 &emsp; Break
+##### 16:10-16:40 &emsp; Break
 
 <br/>
 
-##### 16:00-17:00 &emsp; Tutorial by Giuseppe Mazzotta
+##### 16:40-17:10 &emsp; Tutorial by Giuseppe Mazzotta
 
 **Tackling Grounding Bottleneck through Compilation-Based ASP Solving** \
 The success of Answer Set Programming (ASP) arises from its highly expressive declarative language capable of modeling complex combinatorial problems and from the availability of efficient solvers that make ASP a practical tool for real-world applications.
@@ -55,7 +57,7 @@ In this tutorial, we will provide an overview of compilation-based ASP solving, 
 
 <br/>
 
-##### 17:00-18:30 &emsp; Technical Session
+##### 17:10-18:30 &emsp; Technical Session
 
 Incremental Lazy Grounding (Work in Progress) \
 _Sebastian Adam, Thomas Eiter_
@@ -77,6 +79,10 @@ _Lucrezia Mosconi, Johannes Peter Wallner_
 <br/>
 
 #### Tuesday, Nov 25, 2025
+
+Room: _TBD_
+<!-- Room: [TU Wien EI Building, 1. Floor, Seminarraum 363](https://maps.tuwien.ac.at/?q=CA0138) -->
+
 
 <br/>
 

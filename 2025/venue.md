@@ -8,13 +8,11 @@ menu: true
 
 ### Workshop Location 
 
-The workshop will be held in the [Faculty of Informatics](https://informatics.tuwien.ac.at/) of the [**TU Wien**](https://tuwien.ac.at).
+The workshop will be held in different buildings of the [**TU Wien**](https://tuwien.ac.at).
 
-The faculty building is located at **Favoritenstraße 9-11, 1040 Wien** ([Google Maps](https://www.google.com/maps?q=AT+1040+Wien+Favoritenstrasse+9-11)).
+The location for Monday is [Sitzungszimmer AD EG](https://maps.tuwien.ac.at/?q=ADEG19) on the ground floor of the TU Wien main building at [Karlsplatz 13, 1040 Wien](https://maps.app.goo.gl/R8ETzxW9BTmxqR8j7).
 
-The exact room(s) in which the workshop will be held, is still being determined.
+On Tuesday afternoon the workshop is held in [Seminarraum 363](https://maps.tuwien.ac.at/?q=CA0138) on the first floor of the EI building at [Gußhausstraße 27-29, 1040 Wien](https://maps.app.goo.gl/Nfp2Bd5fefckWyFd9).
 
-<!-- The workshop will be held in **Room Zemanek** (Ground floor, [TUW Maps](https://maps.tuwien.ac.at/?q=HHEG01)) **on Monday 24.11** and **Room FAV 01 B** (1st floor, Staircase 4, [TUW Maps](https://maps.tuwien.ac.at/?q=HF0109)) **on Tuesday 25.11**.  -->
-
-
+The room for Tuesday morning (9:00 - 12:30) is still being determined but most likely will be Seminarraum 363 as well.
 
