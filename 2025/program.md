@@ -161,6 +161,9 @@ _Javier Romero, Torsten Schaub, Hannah Mathilde Steinbach_
 Brief Temporal Equilibrium Logic \
 _Pedro Cabalar, Thomas Eiter, David Pearce, Davide Soldà_
 
+Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
+_Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
+
 <br/>
 
 ##### 17:30-17:40 &emsp; Closing
