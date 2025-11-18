@@ -132,17 +132,17 @@ _Wolfgang Dvořák, Zeynep G. Saribatur, Stefan Woltran_
 On Strong Equivalence Notions in Logic Programming and Abstract Argumentation \
 _Giovanni Buraglio, Wolfgang Dvořák, Stefan Woltran_
 
-ANTHEM 2.0: Automated Reasoning for Answer Set Programming (Extended Abstract) \
-_Jorge Fandinno, Christoph Glinzer, Zachary Hansen, Jan Heuer, Yuliya Lierler, Vladimir Lifschitz, Torsten Schaub, Tobias Stolzmann_
-
-Logic-based Languages For Solving Reversibility in Planning \
-_Wolfgang Faber, Michael Morak_
+Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
+_Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
 
 An Argumentation Calculus for Equilibrium Logic \
 _Tobias Geibinger, Thomas Eiter_
 
 viasp: A visualization tool for Answer Set Programming (Extended Abstract) \
 _Javier Romero, Torsten Schaub, Stephan Zwicknagl, Luis Glaser_
+
+Logic-based Languages For Solving Reversibility in Planning \
+_Wolfgang Faber, Michael Morak_
 
 <br/>
 
@@ -160,9 +160,6 @@ _Javier Romero, Torsten Schaub, Hannah Mathilde Steinbach_
 
 Brief Temporal Equilibrium Logic \
 _Pedro Cabalar, Thomas Eiter, David Pearce, Davide Soldà_
-
-Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
-_Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
 
 <br/>
 
