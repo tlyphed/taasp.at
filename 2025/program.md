@@ -27,7 +27,7 @@ Inductive rule learning is concerned with the learning of classification rules f
 
 <br/>
 
-##### 14:40-16:10 &emsp; Technical Session
+##### 14:40-15:40 &emsp; Technical Session
 
 Effect of Abstraction on Understandability of ASP Explanations: Work in Progress \
 _Zeynep G. Saribatur, Johannes Langer, Ute Schmid_
@@ -35,8 +35,6 @@ _Zeynep G. Saribatur, Johannes Langer, Ute Schmid_
 Globally Interpretable Classifiers via Boolean Formulas with Dynamic Propositions \
 _Reijo Jaakkola, Tomi Janhunen, Antti Kuusisto, Masood Feyzbakhsh Rankooh_
 
-Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
-_Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
 
 Answer-Set-Programming-based Abstractions for Reinforcement Learning \
 _Rafael Bankosegger, Thomas Eiter, Johannes Oetsch_
@@ -44,11 +42,11 @@ _Rafael Bankosegger, Thomas Eiter, Johannes Oetsch_
 
 <br/>
 
-##### 16:10-16:40 &emsp; Break
+##### 15:40-16:10 &emsp; Break
 
 <br/>
 
-##### 16:40-17:10 &emsp; Tutorial by Giuseppe Mazzotta
+##### 16:10-17:10 &emsp; Tutorial by Giuseppe Mazzotta
 
 **Tackling Grounding Bottleneck through Compilation-Based ASP Solving** \
 The success of Answer Set Programming (ASP) arises from its highly expressive declarative language capable of modeling complex combinatorial problems and from the availability of efficient solvers that make ASP a practical tool for real-world applications.
@@ -57,7 +55,7 @@ In this tutorial, we will provide an overview of compilation-based ASP solving, 
 
 <br/>
 
-##### 17:10-18:30 &emsp; Technical Session
+##### 17:10-18:40 &emsp; Technical Session
 
 Incremental Lazy Grounding (Work in Progress) \
 _Sebastian Adam, Thomas Eiter_
@@ -132,11 +130,11 @@ _Wolfgang Dvořák, Zeynep G. Saribatur, Stefan Woltran_
 On Strong Equivalence Notions in Logic Programming and Abstract Argumentation \
 _Giovanni Buraglio, Wolfgang Dvořák, Stefan Woltran_
 
-Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
-_Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
-
 An Argumentation Calculus for Equilibrium Logic \
 _Tobias Geibinger, Thomas Eiter_
+
+Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
+_Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
 
 viasp: A visualization tool for Answer Set Programming (Extended Abstract) \
 _Javier Romero, Torsten Schaub, Stephan Zwicknagl, Luis Glaser_
