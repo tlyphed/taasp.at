@@ -152,7 +152,7 @@ _Javier Romero, Torsten Schaub, Stephan Zwicknagl, Luis Glaser_
 
 ##### 16:30-17:30 &emsp; Technical Session
 
-Comparing SLTL<sup>x</sup>-based Synthesis and ASP for the Automated Composition of Data Analysis Workflows \
+Comparing SLTL<sup>x</sup>-based Synthesis and ASP for the Automated Composition of Data Analysis Workflows (Extended Abstract) \
 _Nikolas Bertrand, Mario Frank, Anna-Lena Lamprecht_
 
 Towards Temporal Answer Set Programming with Preferences (Extended Abstract) \
