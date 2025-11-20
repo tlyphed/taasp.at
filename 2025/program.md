@@ -71,15 +71,16 @@ _Lucrezia Mosconi, Johannes Peter Wallner_
 
 <br/>
 
-##### 19:00-22:00 &emsp; Social Dinner at Gasthaus Buchecker & Sohn 
+##### 19:00-22:00 &emsp; Social Dinner at Salm Bräu 
 
 <br/>
 <br/>
 
 #### Tuesday, Nov 25, 2025
 
-Room: _TBD_
-<!-- Room: [TU Wien EI Building, 1. Floor, Seminarraum 363](https://maps.tuwien.ac.at/?q=CA0138) -->
+Room:\
+[TU Wien Theresianumgasse, 1. Floor, HS 1](https://maps.tuwien.ac.at/?q=QA0101) (09:00 - 12:30) \
+[TU Wien EI Building, 1. Floor, Seminarraum 363](https://maps.tuwien.ac.at/?q=CA0138) (14:00 - 17:40)
 
 
 <br/>
