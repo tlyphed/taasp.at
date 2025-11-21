@@ -71,7 +71,7 @@ _Lucrezia Mosconi, Johannes Peter Wallner_
 
 <br/>
 
-##### 19:00-22:00 &emsp; Social Dinner at Salm Bräu 
+##### 19:00-22:00 &emsp; Social Dinner at [Salm Bräu](https://salmbraeu.com/en/salm-braeu/) 
 
 <br/>
 <br/>
