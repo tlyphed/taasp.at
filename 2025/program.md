@@ -29,14 +29,14 @@ Inductive rule learning is concerned with the learning of classification rules f
 
 ##### 14:40-15:40 &emsp; Technical Session
 
-Effect of Abstraction on Understandability of ASP Explanations: Work in Progress \
+[Effect of Abstraction on Understandability of ASP Explanations: Work in Progress](/assets/paper/4_Effect_of_Abstraction_on_Und.pdf) \
 _Zeynep G. Saribatur, Johannes Langer, Ute Schmid_
 
-Globally Interpretable Classifiers via Boolean Formulas with Dynamic Propositions \
+[Globally Interpretable Classifiers via Boolean Formulas with Dynamic Propositions](/assets/paper/24_Globally_Interpretable_Clas.pdf) \
 _Reijo Jaakkola, Tomi Janhunen, Antti Kuusisto, Masood Feyzbakhsh Rankooh_
 
 
-Answer-Set-Programming-based Abstractions for Reinforcement Learning \
+[Answer-Set-Programming-based Abstractions for Reinforcement Learning](/assets/paper/10_Answer_Set_Programming_base.pdf) \
 _Rafael Bankosegger, Thomas Eiter, Johannes Oetsch_
 
 
@@ -57,16 +57,16 @@ In this tutorial, we will provide an overview of compilation-based ASP solving, 
 
 ##### 17:10-18:40 &emsp; Technical Session
 
-Incremental Lazy Grounding (Work in Progress) \
+[Incremental Lazy Grounding (Work in Progress)](/assets/paper/3_Incremental_Lazy_Grounding_W.pdf) \
 _Sebastian Adam, Thomas Eiter_
 
-Automated Hybrid Grounding Using Structural and Data-Driven Heuristics (Extended Abstract) \
+[Automated Hybrid Grounding Using Structural and Data-Driven Heuristics (Extended Abstract)](/assets/paper/) \
 _Alexander Beiser, Markus Hecher, Stefan Woltran_
 
-Many-sorted Bound Founded Logic of Here-and-There: Work in Progress \
+[Many-sorted Bound Founded Logic of Here-and-There: Work in Progress](/assets/paper/2_Many_sorted_Bound_Founded_Lo.pdf) \
 _Pedro Cabalar, Jorge Fandinno, Nicolas Rühling, Torsten Schaub, Sebastian Schellhorn, Philipp Wanko_
 
-CompLogDL and its Implementation in Answer Set Programming (Extended Abstract) \
+[CompLogDL and its Implementation in Answer Set Programming (Extended Abstract)](/assets/paper/14_CompLogDL_and_its_Implement.pdf) \
 _Lucrezia Mosconi, Johannes Peter Wallner_
 
 <br/>
@@ -99,22 +99,22 @@ This is joint work with Taisuke Sato and Akihiro Takemura, and is to appear in N
 
 ##### 10:30-12:30 &emsp; Technical Session
 
-Formalizing ASP-based Product Configuration: Work in Progress \
+[Formalizing ASP-based Product Configuration: Work in Progress](/assets/paper/1_Formalizing_ASP_based_Produc.pdf) \
 _Nicolas Rühling, Torsten Schaub, Philipp Wanko_
 
-Preliminary Report: Improving Suboptimal Reduction-based Approaches for Multi-agent Pathfinding \
+[Preliminary Report: Improving Suboptimal Reduction-based Approaches for Multi-agent Pathfinding](/assets/paper/7_Preliminary_Report_Improving.pdf) \
 _Klaus Strauch_
 
-A CASP-based Solution for Traffic Signal Optimisation - Extended Abstract \
+[A CASP-based Solution for Traffic Signal Optimisation - Extended Abstract](/assets/paper/11_A_CASP_based_Solution_for_T.pdf) \
 _Alice Tarzariol, Marco Maratea, Mauro Vallati_
 
-Reasoning over student-related study regulations hard and soft constraints in ASP \
+[Reasoning over student-related study regulations hard and soft constraints in ASP](/assets/paper/15_Reasoning_over_student_rela.pdf) \
 _Henry Otunuya_
 
-Solving Energy-Aware Double-Flexible Job Shop Scheduling with CP and ASP modulo CSP \
+[Solving Energy-Aware Double-Flexible Job Shop Scheduling with CP and ASP modulo CSP](/assets/paper/22_Solving_Energy_Aware_Double.pdf) \
 _Francesco Zuccato, Patrick Rodler, Gerhard Friedrich, Konstantin Schekotihin, Giray Havur, Richard Comploi-Taupe_
 
-Investigating the Grounding Bottleneck for a Large-Scale Configuration Problem: Existing Tools and Constraint-Aware Guessing \
+[Investigating the Grounding Bottleneck for a Large-Scale Configuration Problem: Existing Tools and Constraint-Aware Guessing](/assets/paper/21_Investigating_the_Grounding.pdf) \
 _Veronika Semmelrock, Gerhard Friedrich_
 
 <br/>
@@ -125,22 +125,22 @@ _Veronika Semmelrock, Gerhard Friedrich_
 
 ##### 14:00-16:00 &emsp; Technical Session
 
-Simple Guess-and-Check Programs: Strong and Uniform Equivalence Meet Again \
+[Simple Guess-and-Check Programs: Strong and Uniform Equivalence Meet Again](/assets/paper/16_Simple_Guess_and_Check_Prog.pdf) \
 _Wolfgang Dvořák, Zeynep G. Saribatur, Stefan Woltran_
 
-On Strong Equivalence Notions in Logic Programming and Abstract Argumentation \
+[On Strong Equivalence Notions in Logic Programming and Abstract Argumentation](/assets/paper/18_On_Strong_Equivalence_Notio.pdf) \
 _Giovanni Buraglio, Wolfgang Dvořák, Stefan Woltran_
 
-An Argumentation Calculus for Equilibrium Logic \
+[An Argumentation Calculus for Equilibrium Logic](/assets/paper/23_An_Argumentation_Calculus_f.pdf) \
 _Tobias Geibinger, Thomas Eiter_
 
-Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract) \
+[Bayesian Hyperparameter Optimization with ALASPO (Extended Abstract)](/assets/paper/5_Bayesian_Hyperparameter_Opti.pdf) \
 _Dave Pfliegler, Tobias Geibinger, Thomas Eiter_
 
-viasp: A visualization tool for Answer Set Programming (Extended Abstract) \
+[viasp: A visualization tool for Answer Set Programming (Extended Abstract)](/assets/paper/13_viasp_A_visualization_tool_.pdf) \
 _Javier Romero, Torsten Schaub, Stephan Zwicknagl, Luis Glaser_
 
-Logic-based Languages For Solving Reversibility in Planning \
+[Logic-based Languages For Solving Reversibility in Planning](/assets/paper/19_Logic_based_Languages_For_S.pdf) \
 _Wolfgang Faber, Michael Morak_
 
 <br/>
@@ -151,13 +151,13 @@ _Wolfgang Faber, Michael Morak_
 
 ##### 16:30-17:30 &emsp; Technical Session
 
-Comparing SLTL<sup>x</sup>-based Synthesis and ASP for the Automated Composition of Data Analysis Workflows (Extended Abstract) \
+[Comparing SLTL<sup>x</sup>-based Synthesis and ASP for the Automated Composition of Data Analysis Workflows (Extended Abstract)](/assets/paper/20_Comparing_SLTL_x_based_Synt.pdf) \
 _Nikolas Bertrand, Mario Frank, Anna-Lena Lamprecht_
 
-Towards Temporal Answer Set Programming with Preferences (Extended Abstract) \
+[Towards Temporal Answer Set Programming with Preferences (Extended Abstract)](/assets/paper/12_Towards_Temporal_Answer_Set.pdf) \
 _Javier Romero, Torsten Schaub, Hannah Mathilde Steinbach_
 
-Brief Temporal Equilibrium Logic \
+[Brief Temporal Equilibrium Logic](/assets/paper/8_Brief_Temporal_Equilibrium_L.pdf) \
 _Pedro Cabalar, Thomas Eiter, David Pearce, Davide Soldà_
 
 <br/>
