@@ -4,8 +4,6 @@ title: Program
 menu: true
 ---
 
-*Preliminary program which is still subject to potential changes*
-
 Each technical paper presentation is scheduled for 20 minutes, where 5 minutes are supposed to be reserved for QA and setup.
 
 <br/>
