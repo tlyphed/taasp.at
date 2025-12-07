@@ -20,7 +20,7 @@ Room: [TU Wien Main Building, Ground floor, Sitzungszimmer AD EG](https://maps.t
 
 ##### 13:40-14:40 &emsp; Invited Talk by [Johannes Fürnkranz](https://www.jku.at/en/institute-for-application-oriented-knowledge-processing/about-us/team/johannes-fuernkranz/)
 
-**Towards Deep and Interpretable Rule Learning** \
+**[Towards Deep and Interpretable Rule Learning](assets/invited_talk_fuernkranz.pdf)** \
 Inductive rule learning is concerned with the learning of classification rules from data. Learned rules are inherently interpretable and easy to implement, so they are very suitable for formulating learned models in many domains. Nevertheless, current rule learning algorithms have several shortcomings. First, with respect to the current praxis of equating high interpretability with low complexity, we argue that while shorter rules are important for discrimination, longer rules are often more interpretable than shorter rules, and that the tendency of current rule learning algorithms to strive for short and concise rules should be replaced with alternative methods that allow for longer concept descriptions. Second, we think that the main impediment of current rule learning algorithms is that they are not able to learn deeply structured rule sets, unlike the successful deep learning techniques. Both points are currently under investigation in our group, and we will illustrate our progress with some results.
 
 <br/>
@@ -85,7 +85,7 @@ Room:\
 
 ##### 09:00-10:00 &emsp; Invited Talk by [Katsumi Inoue](https://researchmap.jp/vivre/?lang=en)
 
-**Towards end-to-end ASP computation** \
+**[Towards end-to-end ASP computation](assets/invited_talk_inoue.pdf)** \
 We propose an end-to-end approach for Answer Set Programming (ASP) and linear algebraically compute stable models satisfying given constraints.  The idea is to implement Lin-Zhao’s theorem together with constraints directly in vector spaces as numerical minimization of a cost function constructed from a matricized normal logic program, loop formulas in Lin-Zhao’s theorem and constraints, thereby no use of symbolic ASP or SAT solvers involved in our approach.  We also propose precomputation that shrinks the program size and heuristics for loop formulas to reduce computational difficulty.  We empirically test our approach with programming examples including the 3-coloring and Hamiltonian cycle problems. \
 This is joint work with Taisuke Sato and Akihiro Takemura, and is to appear in Neurosymbolic Artificial Intelligence.
 
