@@ -58,7 +58,7 @@ In this tutorial, we will provide an overview of compilation-based ASP solving, 
 [Incremental Lazy Grounding (Work in Progress)](/assets/paper/3_Incremental_Lazy_Grounding_W.pdf) \
 _Sebastian Adam, Thomas Eiter_
 
-[Automated Hybrid Grounding Using Structural and Data-Driven Heuristics (Extended Abstract)](/assets/paper/) \
+[Automated Hybrid Grounding Using Structural and Data-Driven Heuristics (Extended Abstract)](/assets/paper/6_Automated_Hybrid_Grounding_U.pdf) \
 _Alexander Beiser, Markus Hecher, Stefan Woltran_
 
 [Many-sorted Bound Founded Logic of Here-and-There: Work in Progress](/assets/paper/2_Many_sorted_Bound_Founded_Lo.pdf) \
