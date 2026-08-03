@@ -18,5 +18,5 @@ Detailed room information will be provided closer to the workshop date.
 
 * [Landhotel Potsdam (Golm) - fußläufig](https://www.landhotel-potsdam.de/)
 * [Elisapart Potssdam (am Bahnhof Charlottenburg)](https://www.elisapart.de/)
-* [Kongresshotel Potsdam (am Bahnhof Pirschheide)](https://www.kongresshotel-potsdam.de/en/home.html)
+* [Kongresshotel Potsdam (am Bahnhof Pirschheide)](https://www.kongresshotel-potsdam.de/)
 * [B&B Hotel Potsdam (am Hauptbahnhof)](https://www.hotelbb.com/en/potsdam)
