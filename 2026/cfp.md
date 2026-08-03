@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Call for Papers
-menu: false
+menu: true
 ---
 
 
