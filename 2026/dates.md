@@ -1,7 +1,7 @@
 ---
 layout: template
 title: Important Dates
-menu: false
+menu: true
 ---
 
 <table>
@@ -10,7 +10,7 @@ menu: false
 			<b>Paper submission deadline:&emsp;&emsp;</b>
 		</td>
 		<td>
-            TBD
+            September 22, 2026
         </td>
 	</tr>
 	<tr>
@@ -18,21 +18,21 @@ menu: false
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            TBD
+            October 21, 2026
         </td>
 	</tr>
 	<tr>
 		<td>
 			<b>Camera-ready articles due:&emsp;&emsp;</b>
 		</td>
-		<td>TBD</td>
+		<td>October 29, 2026</td>
 	</tr>
 	<tr>
 		<td>
 			<b>Workshop:&emsp;&emsp;</b>
 		</td>
 		<td>
-            TBD
+            November 2-3, 2026
         </td>
 	</tr>
 </table>
