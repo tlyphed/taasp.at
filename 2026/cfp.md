@@ -21,7 +21,7 @@ https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guideli
 
 Paper submission will be handled electronically via openreview. All submissions will be peer-reviewed. \
 The submission page is available here:
-TBD
+[https://openreview.net/group?id=TAASP.at/2026/Workshop](https://openreview.net/group?id=TAASP.at/2026/Workshop)
 
 ### Important Dates
 Can be found on the [respective page](/2026/dates).
@@ -34,5 +34,5 @@ TAASP is a non-archival venue and there will be no published proceedings. Howeve
 
 
 ### Contact
-**Submission page:** TBD \
-**Email address:** TBD
+**Submission page:** [https://openreview.net/group?id=TAASP.at/2026/Workshop](https://openreview.net/group?id=TAASP.at/2026/Workshop) \
+**Email address:** [taasp2026@lists.cs.uni-potsdam.de](mailto:taasp2026@lists.cs.uni-potsdam.de)
