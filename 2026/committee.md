@@ -16,8 +16,7 @@ Stefan Woltran, Technische Universität Wien, Austria
 Amadé Nemes, Universität Potsdam, Germany \
 Ryan Kepler Murphy, Universität Potsdam, Germany \
 Sebastian Adam, Technische Universität Wien, Austria \
-Djordje Markovic, Alpen-Adria-Universität Klagenfurt, Austria \
-Alice Tarzariol, Alpen-Adria-Universität Klagenfurt, Austria 
+Djordje Markovic, Alpen-Adria-Universität Klagenfurt, Austria
 
 ### Industrial Day
 Nicolas Rühling, Universität Potsdam, Germany
