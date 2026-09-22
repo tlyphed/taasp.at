@@ -10,7 +10,8 @@ menu: true
 			<b>Paper submission deadline:&emsp;&emsp;</b>
 		</td>
 		<td>
-            September 22, 2026
+            <del>September 22, 2026</del>
+            September 30, 2026
         </td>
 	</tr>
 	<tr>

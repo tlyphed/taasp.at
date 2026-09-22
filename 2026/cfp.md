@@ -19,6 +19,8 @@ We welcome two categories of submissions:
 All submissions should be in the Springer LNCS format:
 https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
 
+If you plan to prepare your submission using Typst, please use the following template: https://typst.app/universe/package/fine-lncs
+
 Paper submission will be handled electronically via openreview. All submissions will be peer-reviewed. \
 The submission page is available here:
 [https://openreview.net/group?id=TAASP.at/2026/Workshop](https://openreview.net/group?id=TAASP.at/2026/Workshop)
