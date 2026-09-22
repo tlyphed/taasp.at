@@ -17,9 +17,9 @@ We welcome two categories of submissions:
    (at most 2 pages plus references and optional appendix).
 
 All submissions should be in the Springer LNCS format:
-https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+[https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
-If you plan to prepare your submission using Typst, please use the following template: https://typst.app/universe/package/fine-lncs
+If you plan to prepare your submission using Typst, please use the following template: [https://typst.app/universe/package/fine-lncs](https://typst.app/universe/package/fine-lncs)
 
 Paper submission will be handled electronically via openreview. All submissions will be peer-reviewed. \
 The submission page is available here:
