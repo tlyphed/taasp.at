@@ -19,7 +19,8 @@ menu: true
 			<b>Notification:&emsp;&emsp;</b>
 		</td>
 		<td>
-            October 21, 2026
+            <del>October 21, 2026</del>
+            October 24, 2026
         </td>
 	</tr>
 	<tr>
